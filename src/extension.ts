@@ -59,7 +59,7 @@ export function activate(context: vscode.ExtensionContext) {
 
 async function callGemini(diffText: string): Promise<string> {
   try {
-    const apiKey = "AIzaSyBgQojWjYZTZKIKTmh6N8MxGK8tQBm-R6k";
+    const apiKey = "Enter Your API Key Here"; // Replace with your actual API key
 
     const genAi = new GoogleGenerativeAI(apiKey || "");
 
