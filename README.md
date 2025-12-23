@@ -5,6 +5,14 @@ Just click the **robot icon** and instantly generate meaningful commit messages 
 ⭐ If this project saved you time, please give it a star — it helps a lot!
 🍴 Fork it if you want to customize prompts or add features.
 
+## 🍴 Why Fork This Repo?
+You should fork this repository if you want to:
+- Customize the AI prompt for your team or workflow
+- Switch AI models (Gemini → OpenAI → Claude)
+- Add commit styles (emoji, Jira, conventional)
+- Publish your own VS Code extension
+
+
 ---
 
 ## ✨ Why Git Auto Commit Generator?
@@ -139,6 +147,17 @@ git-auto-commit-generator-1.0.0.vsix
 - Large diffs may take slightly longer to process
 - Requires active internet connection for Gemini API
 
+---
+
+## 🧩 Good First Issues
+
+Want to contribute? Start here:
+- Add emoji commit support
+- Improve diff summarization
+- Add settings UI for prompt customization
+- Improve large diff handling
+
+PRs are welcome!
 ---
 
 ## 📝 Release Notes
