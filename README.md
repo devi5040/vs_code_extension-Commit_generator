@@ -2,6 +2,8 @@
 
 A smart, free, and customizable **AI-powered commit message generator** for VS Code.  
 Just click the **robot icon** and instantly generate meaningful commit messages for your **staged changes** — no typing, no guesswork.
+⭐ If this project saved you time, please give it a star — it helps a lot!
+🍴 Fork it if you want to customize prompts or add features.
 
 ---
 
